@@ -1,0 +1,45 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.8raw.com/cyixlq/ebuy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.8raw.com" />
+          <option name="userName" value="cyixlq" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@gogs.8raw.com:23/cyixlq/qimenghao.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@gogs.8raw.com:23/cyixlq/BY_APP_TEMPLATE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@gogs.8raw.com:23/cyixlq/hospital.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="cyixlq" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cyixlq/ViewTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@gogs.8raw.com:23/cyixlq/xiaolizhineng_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://root@gogs.8raw.com:23/cyixlq/zhuajia_andorid_studio_new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="/Volumes/File/Projects/Android" />
+  </component>
+</application>
