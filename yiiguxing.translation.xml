@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
+      <item value="公共" />
       <item value="Neutral" />
       <item value="配送方式" />
       <item value="物流信息" />
@@ -16,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
